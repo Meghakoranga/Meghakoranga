@@ -1,6 +1,10 @@
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Megha%20Koranga%20👋;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20I'm%20Megha%20Koranga;&font=Merriweather&center=true&width=700&height=60&color=1f7777&vCenter=true&size=30">
+  </a>
 </p>
+
+
 <div align = "left">
   <img  align=right alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 <br>
